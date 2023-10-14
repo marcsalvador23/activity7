@@ -1,0 +1,44 @@
+
+body 
+{
+  margin: auto;
+  padding: 5px;
+  background-image: url(fruits.jpg);
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 50vh;
+  background-size: calc(100%);
+}
+
+.fruitName {
+  color: rgb(0, 255, 170);
+  font-size: 150%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.fruitColor {
+  color: rgb(251, 255, 0);
+  font-size: 150%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Filter {
+  color: red;
+  font-size: 200%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Fruit {
+  color: rgb(255, 255, 255);
+  font-size: 200%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.h1 {
+  color: rgb(199, 199, 199);
+  font-size: 200%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
